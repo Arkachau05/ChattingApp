@@ -23,9 +23,9 @@ Notifications
 
 ## Screenshots
 
-![App Screenshot]("https://github.com/user-attachments/assets/2e04c1f0-bbe7-4048-be35-acc7b8efff31")
-![App Screenshot]("https://github.com/user-attachments/assets/ce6f26c9-1c56-4c49-981a-44056db53cd1")
-![App Screenshot]("https://github.com/user-attachments/assets/a86dfbab-df65-4a71-a860-c0e0a39e4451")
+![App Screenshot](https://github.com/user-attachments/assets/2e04c1f0-bbe7-4048-be35-acc7b8efff31)
+![App Screenshot](https://github.com/user-attachments/assets/ce6f26c9-1c56-4c49-981a-44056db53cd1)
+![App Screenshot](https://github.com/user-attachments/assets/a86dfbab-df65-4a71-a860-c0e0a39e4451)
 
 
 ## Environment Variables
